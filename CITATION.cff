@@ -1,10 +1,10 @@
 cff-version: 1.2.0
-title: Block Foundation History
+title: Block Foundation Charter
 version: 0.0.1
 date-released: 2023-01-01
-url: "https://github.com/block-foundation/kockums-bibliography"
+url: "https://github.com/block-foundation/charter"
 message: >-
-  If you use Block Foundation Bibliography, please cite it using
+  If you use Block Foundation Charter, please cite it using
   the metadata from this file.
 type: software
 authors:
