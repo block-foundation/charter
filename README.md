@@ -12,7 +12,7 @@
 <div>
     <img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_gray.png" width="96" alt="Block Foundation Logo">
     <h1 align="left">Block Foundation Charter</h1>
-    <h3 align="left"></h3>
+    <h3 align="left">Governing Documents and Guidelines</h3>
 </div>
 
 ---
@@ -20,6 +20,10 @@
 <p align="center">
     <img src="https://github.com/block-foundation/charter/blob/main/res/block_foundation-charter.jpg"width="100%" height="100%" alt="Form Follows Finance">
 </p>
+
+This repository contains the organization charter, community guideline and developer process for all Block Foundation projects.
+
+---
 
 
 ---
