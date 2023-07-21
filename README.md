@@ -1,3 +1,29 @@
-# Block Foundation Charter
+<div align="right">
 
-This repository contains the organization charter, community guideline and developer process for all Block Foundation projects.
+  [![license](https://img.shields.io/github/license/block-foundation/charter?color=green&label=license&style=flat-square)](LICENSE.md)
+  ![stars](https://img.shields.io/github/stars/block-foundation/charter?color=blue&label=stars&style=flat-square)
+  ![sponsors](https://img.shields.io/github/sponsors/geoid-org?color=blue&label=sponsors&style=flat-square)
+  ![contributors](https://img.shields.io/github/contributors/block-foundation/charter?color=blue&label=contributors&style=flat-square)
+
+</div>
+
+---
+
+<div>
+    <img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/master/logo/logo_gray.png" width="96" alt="Block Foundation Logo">
+    <h1 align="left">Block Foundation Charter</h1>
+    <h3 align="left"></h3>
+</div>
+
+---
+
+<p align="center">
+    <img src="https://github.com/block-foundation/charter/blob/main/res/block_foundation-charter.jpg"width="100%" height="100%" alt="Form Follows Finance">
+</p>
+
+
+---
+
+## Disclaimer
+
+**THIS SOFTWARE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
