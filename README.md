@@ -37,6 +37,26 @@ We hope this Charter Repository serves as a clear guide to what we stand for, wh
 
 Thank you for being a part of this journey, and for helping us shape a future where everyone has a fair stake in the world we build. Let's continue pushing the boundaries of what's possible, together!
 
+
+## Charter
+
+### Article I – Name
+
+The name of the organization shall be the Block Foundation.
+
+### Article II – Mission
+
+The mission of the Block Foundation is to enable architects to take the initiative and contribute to resolving the housing mismatch through the utilization of blockchain technology.
+
+### Article III – Goals
+
+- Empower architects to become drivers of social innovation once again.
+- Facilitate the establishment of the Meta-Estate Lab to question and rethink current architectural and housing practices.
+- Unshackle traditional constraints and establish a middle ground between rent and the rigidity of traditional mortgages.
+- Foster a market environment where the boundaries between initiator, creator, investor, and resident are blurred.
+
+
+
 ## Legal Information
 
 ### Copyright
