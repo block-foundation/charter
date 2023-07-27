@@ -11,7 +11,7 @@
 
 <div>
     <img align="right" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/logo/logo_gray.png" width="96" alt="Block Foundation Logo">
-    <h1 align="left">Charter</h1>
+    <h1 align="left">Organisation Charter</h1>
     <h3 align="left">Block Foundation Governance</h3>
 </div>
 
