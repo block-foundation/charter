@@ -4,7 +4,7 @@ const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = {
     mode:'development',
-    entry:'./src/main.ts',
+    entry:'./src/app/main.ts',
     output:{
         filename:'bundle.js',
         path:path.resolve(__dirname,'dist')
@@ -24,13 +24,14 @@ module.exports = {
     },
     devServer: {
         liveReload: true,
+        // disableHostCheck: true,
         static: {
             directory: path.join(__dirname, 'dist'),
             publicPath: '/',
-          },
+        },
         devMiddleware: {
             writeToDisk: true,
-          },
+        },
     },
     plugins: [
         new cleanPlugin.CleanWebpackPlugin(),
