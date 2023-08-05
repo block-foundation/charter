@@ -1,11 +1,11 @@
 cff-version: 1.2.0
-title: Block Foundation Charter
+title: "Block Foundation Charter"
 version: 0.0.1
-date-released: 2023-01-01
+date-released: 2023-08-05
 url: "https://github.com/block-foundation/charter"
 message: >-
-  If you use Block Foundation Charter, please cite it using
-  the metadata from this file.
+  If you use Block Foundation's Charter, or any derivative works thereof,
+  please cite it using the metadata from this file.
 type: software
 authors:
   - given-names: Lars Bastiaan
@@ -13,3 +13,12 @@ authors:
     email: lars@blockfoundation.io
     affiliation: Block Foundation
     orcid: 'https://orcid.org/0000-0002-8790-8630'
+keywords: 
+  - "architecture"
+  - "blockchain"
+  - "foundation"
+  - "housing"
+  - "charter"
+repository-code: "https://github.com/blockfoundation/charter"
+license: "CC-BY-4.0"
+abstract: "The Block Foundation's charter sets forth the mission, objectives, governance, and principles of the Foundation, which aims to innovate architecture and housing through blockchain technology."
