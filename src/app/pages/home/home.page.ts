@@ -14,10 +14,13 @@ import { DataService } from "../../services/data.service";
         <button type="button" event-click="changeMsg($event,title)">Change Text</button>
         `
 })
-export class HomePage implements BindableProps,onInit,AfterInit,onDestroy,onChangeDetected {
+
+export class HomePage implements BindableProps, onInit, AfterInit, onDestroy, onChangeDetected {
+
     bindProps={
         title : "Home Page"
     };
+
     onInit(){
         console.log('Home onInit');
     }
@@ -25,15 +28,19 @@ export class HomePage implements BindableProps,onInit,AfterInit,onDestroy,onChan
     AfterInit(){
         console.log('Home AfterInit');
     }
+
     onDestroy(): void {
         console.log('Home onDestroy');
     }
+
     onChangeDetected(key:string, value:any, newValue: any){
         console.log('onChangeDetected');
         console.log(key, ' is being changed from ' ,value, ' to ', newValue);
     }
 
-    constructor(@inject('DataService') private dataservice:DataService){}
+    constructor(
+        @inject('DataService') private dataservice: DataService
+    ){}
 
     changeMsg(e:any,msg:string){
        this.bindProps.title = 'Working!!';
@@ -47,4 +54,5 @@ export class HomePage implements BindableProps,onInit,AfterInit,onDestroy,onChan
     getTitle(){
         return this.bindProps.title;
     }
+
 }
