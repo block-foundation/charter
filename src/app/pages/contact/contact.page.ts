@@ -15,12 +15,15 @@ import { DataService } from "../../services/data.service";
         <button type="button" event-click="printServiceData">Show Log</button>
         `
 })
+
 export class ContactPage implements BindableProps{
     bindProps= { 
         title : "Some other text"
      };
      
-    constructor(@inject('DataService') private dataservice:DataService){}
+    constructor(
+      @inject('DataService') private dataservice: DataService
+   ){}
 
     onInit(){
       console.log('Contact page initialized');
