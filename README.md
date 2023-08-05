@@ -41,16 +41,69 @@ Thank you for being a part of this journey, and for helping us shape a future wh
 
 The name of the organization shall be the Block Foundation.
 
+1.1 The official name of this organization, henceforth referred to in this document, shall be the "Block Foundation". This name should be used in all formal communications and official documents related to the organization's activities.
+
+1.2 The organization may also be referred to by its abbreviated form, "TBF." This abbreviation may be used for internal communication or in contexts where the full name of the organization is already clearly understood or stated.
+
+1.3 The organization may also operate under different names, or "doing business as" (DBA) names, as needed for various initiatives, projects, or branches of the foundation. All such names must be officially registered and approved by the Board of Directors in accordance with local and international law.
+
+1.4 Any name change, whether temporary or permanent, must be officially proposed, discussed, and approved by the Board of Directors. It must then be registered and made public in accordance with the relevant local and international regulations.
+
+1.5 The Block Foundation will uphold the integrity and reputation of its name in all circumstances. Any misuse of the organization's name, whether it be for unauthorized, misleading, or fraudulent activities, will be strictly prohibited and may result in legal action.
+
+1.6 All members, employees, partners, and stakeholders are expected to respect and uphold the name of the Block Foundation, using it responsibly and accurately in all relevant contexts. Misuse, misrepresentation, or unauthorized use of the organization's name is a breach of this charter and may result in disciplinary action or removal from the organization.
+
 ### Article II – Mission
 
-The mission of the Block Foundation is to enable architects to take the initiative and contribute to resolving the housing mismatch through the utilization of blockchain technology.
+2.1 The Block Foundation is dedicated to empowering architects and other key stakeholders to drive innovative solutions to current housing issues. Our mission is to dismantle barriers within the housing sector, foster inclusivity and balance, and enable sustainable change.
 
-### Article III – Goals
+2.2 The Foundation's approach is grounded in the novel application of blockchain technology, intending to reshape traditional practices within the housing market. The goal is to move beyond the binary of rent and traditional mortgage systems, fostering a more dynamic, flexible, and equitable landscape in real estate transactions.
 
-- Empower architects to become drivers of social innovation once again.
-- Facilitate the establishment of the Meta-Estate Lab to question and rethink current architectural and housing practices.
-- Unshackle traditional constraints and establish a middle ground between rent and the rigidity of traditional mortgages.
-- Foster a market environment where the boundaries between initiator, creator, investor, and resident are blurred.
+2.3 To achieve this mission, the Foundation is committed to:
+
+   2.3.1 Supporting Research and Development: We foster innovation by promoting and funding research in architecture, housing, and blockchain technology. This includes encouraging experiments and pilots that test new models of housing and home ownership.
+
+   2.3.2 Establishing Collaborative Partnerships: We strive to form strategic alliances with architects, urban planners, project developers, service providers, research institutes, and governments to facilitate the exchange of ideas, resources, and expertise.
+
+   2.3.3 Advocacy and Education: We actively engage in policy dialogues and advocacy efforts to promote the use of blockchain in architecture and housing. Additionally, we provide educational resources and training programs to equip architects and other stakeholders with the necessary skills and knowledge in blockchain technology.
+
+   2.3.4 Developing Blockchain Solutions: We aim to create, test, and implement smart contract solutions that democratize property ownership, reduce barriers to market entry, and ensure fair transactions.
+
+2.4 The mission serves as the guiding principle for all activities undertaken by the Foundation. All projects, partnerships, and initiatives will be aligned with the mission and seek to advance its objectives. The impact of the Foundation's activities will be regularly evaluated against the mission to ensure its ongoing relevance and effectiveness. 
+
+2.5 The Foundation is committed to inclusivity, sustainability, and innovation in all its endeavors, and is dedicated to maintaining a high level of ethical and professional standards in fulfilling its mission.
+
+### Article III – Objectives
+
+3.1 The Block Foundation's primary objective is to fuel innovation in the architecture and housing sector through the utilization of blockchain technology. Our objectives serve as the roadmap guiding our mission and are integral to the strategies and actions we undertake.
+
+3.2 Objectives of the Block Foundation include:
+
+3.2.1 Empowering Architects: Our foremost objective is to empower architects and architectural entities to reclaim their role as primary drivers of social innovation. We strive to equip them with the tools, resources, and platforms necessary to explore, challenge, and reshape existing norms and practices in architecture and housing. 
+
+3.2.2 Establishing the Meta-Estate Lab: We aim to establish and support the Meta-Estate Lab, a pioneering initiative designed to challenge and reinvent existing architectural and housing practices. The lab will serve as an incubator for disruptive ideas, technologies, and models, bringing together architects, urban planners, researchers, and other stakeholders.
+
+3.2.3 Rethinking Housing Finance: We are committed to transforming the traditional models of housing finance. We aspire to create a balanced system that merges the flexibility of rent with the stability of mortgages, effectively unlocking a middle ground that can accommodate diverse housing needs and financial capacities.
+
+3.2.4 Creating an Inclusive Market Environment: We strive to blur the traditional boundaries within the real estate market. We seek to foster an ecosystem where the roles of initiator, creator, investor, and resident overlap and interact fluidly, cultivating a democratic and dynamic market.
+
+3.2.5 Democratizing Investment Opportunities: We aim to democratize investment opportunities within the housing market. We envision a market where investments are not restricted to a privileged few but are accessible to a broader audience. Blockchain technology will be harnessed to facilitate fractional ownership, allowing individuals to invest according to their means.
+
+3.2.6 Promoting Sustainable Practices: Sustainability is a fundamental principle that guides our actions. We aim to promote environmentally conscious practices within architectural design and real estate development, ensuring that the housing market contributes positively to the environment.
+
+3.2.7 Fostering Knowledge and Skills Development: The Block Foundation recognizes the importance of continuous learning and skill development. We aim to facilitate knowledge exchange and skills development programs to equip stakeholders with the necessary competencies to navigate the evolving landscape of the housing market powered by blockchain technology.
+
+3.2.8 Encouraging Transparency and Accountability: We believe in a market that operates with complete transparency and accountability. Through the use of blockchain technology, we aim to create a system where transactions are traceable, verifiable, and free from corruption.
+
+3.2.9 Advocating for Policy Reforms: We will actively engage in advocacy for policy reforms that support the use of blockchain technology in the housing market. We aim to contribute to the creation of a legislative environment that fosters innovation and inclusivity.
+
+3.2.10 Fostering Global Collaboration: Recognizing the global nature of housing challenges, we strive to foster international collaboration. We aim to build partnerships with organizations worldwide to share knowledge, best practices, and to jointly tackle housing issues.
+
+3.2.11 Building Community Resilience: Our objective is not only to revolutionize the housing market but also to contribute to the resilience of communities. By ensuring fair access to housing and fostering inclusive growth, we aim to build communities that are robust and resilient.
+
+3.3 The attainment of these objectives will be a constant focus for all members, employees, and partners of the Block Foundation. We will review our progress towards these objectives on a regular basis, adjusting our strategies and actions as necessary to ensure we are effectively pursuing our mission.
+
+3.4 We commit to pursuing these objectives with a steadfast dedication to inclusivity, fairness, and sustainability. All initiatives undertaken in pursuit of these objectives must align with our values, uphold our mission, and contribute positively to the society we serve.
 
 ### Article IV – Programs
 
@@ -94,7 +147,7 @@ Any member of the Board of Trustees, an officer, or a committee member having an
 
 ### Article XIII – Limitations
 
-The Block Foundation is organized and operated exclusively for charitable and educational purposes. No part of the net earnings of the Foundation shall benefit any individual. The Foundation shall not participate in any political campaign. The Foundation shall not carry out any activities not permitted by an organization exempt from tax under section 501(c)(3) of the Internal Revenue Code.
+The Block Foundation is organized and operated exclusively for charitable and educational purposes. No part of the net earnings of the Foundation shall benefit any individual. The Block Foundation shall not participate in any political campaign. The Foundation shall not carry out any activities not permitted by an organization exempt from tax under section 501(c)(3) of the Internal Revenue Code.
 
 Adopted by the Board of Trustees on [Date]
 
@@ -115,3 +168,4 @@ Also see [LICENSE](https://github.com/block-foundation/community/blob/master/LIC
 ### Disclaimer
 
 **THIS SOFTWARE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+
