@@ -1,3 +1,6 @@
-export class DataService{
-    title = 'Data Service';
+
+export class DataService {
+
+    title: string = 'Data Service';
+
 }
