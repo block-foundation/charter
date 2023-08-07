@@ -1,9 +1,7 @@
 <div align="right">
 
-  [![license](https://img.shields.io/github/license/block-foundation/charter?color=green&label=license&style=flat-square)](LICENSE.md)
-  ![stars](https://img.shields.io/github/stars/block-foundation/charter?color=blue&label=stars&style=flat-square)
-  ![sponsors](https://img.shields.io/github/sponsors/geoid-org?color=blue&label=sponsors&style=flat-square)
-  ![contributors](https://img.shields.io/github/contributors/block-foundation/charter?color=blue&label=contributors&style=flat-square)
+[![GitHub License](https://img.shields.io/github/license/block-foundation/blocktxt?style=flat-square&logo=readthedocs&logoColor=FFFFFF&label=&labelColor=%23041B26&color=%23041B26&link=LICENSE)](https://github.com/block-foundation/charter/blob/main/LICENSE)
+[![devContainer](https://img.shields.io/badge/Container-Remote?style=flat-square&logo=visualstudiocode&logoColor=%23FFFFFF&label=Remote&labelColor=%23041B26&color=%23041B26)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/block-foundation/charter)
 
 </div>
 
@@ -17,9 +15,26 @@
 
 ---
 
-<p align="center">
-    <img src="https://github.com/block-foundation/charter/blob/main/res/block_foundation-charter.jpg"width="100%" height="100%" alt="Form Follows Finance">
-</p>
+<img align="right" width="75%" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-accent.jpg"  alt="Block Foundation Brand">
+
+### Contents
+
+- [Introduction](#introduction)
+- [Colophon](#colophon)
+
+<br clear="both"/>
+
+---
+
+<div align="right">
+
+[![Report a Bug](https://img.shields.io/badge/Report%20a%20Bug-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/block-foundation/charter/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=bug_report.yml)
+[![Request a Feature](https://img.shields.io/badge/Request%20a%20Feature-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/block-foundation/charter/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=feature_request.yml)
+[![Ask a Question](https://img.shields.io/badge/Ask%20a%20Question-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/block-foundation/charter/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=question.yml)
+[![Make a Suggestion](https://img.shields.io/badge/Make%20a%20Suggestion-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/block-foundation/charter/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=suggestion.yml)
+[![Start a Discussion](https://img.shields.io/badge/Start%20a%20Discussion-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/block-foundation/charter/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=discussion.yml)
+
+</div>
 
 **Welcome to the heart of the Block Foundation's principles and operational guidelines – the Charter Repository. This is where you will find the foundational documents outlining our mission, vision, values, strategies, and operational processes, providing a comprehensive guide to the ethos and rules that govern our organization.**
 
@@ -32,8 +47,6 @@ In this repository, you will find detailed sections covering our mission stateme
 Transparency and collaboration form the bedrock of the Block Foundation. Therefore, this Charter is not just a rulebook but also a platform for dialogue. We encourage our community members to explore the document, provide input, and help us refine our processes and goals. After all, the Block Foundation is not just about the few but the many who believe in a more sustainable and equitable real estate landscape.
 
 We hope this Charter Repository serves as a clear guide to what we stand for, what we aim to achieve, and how we plan to get there. It's a reflection of our commitment to the journey we're embarking on together, a journey that seeks to revolutionize architecture and housing for the betterment of all.
-
-Thank you for being a part of this journey, and for helping us shape a future where everyone has a fair stake in the world we build. Let's continue pushing the boundaries of what's possible, together!
 
 ## Charter
 
@@ -283,20 +296,40 @@ The name of the organization shall be the Block Foundation.
 
 **Adopted by the Board of Trustees on [Date]**
 
-## Legal Information
 
-### Copyright
+---
 
-Copyright &copy; 2023 [Block Foundation](https://www.blockfoundation.io/ "Block Foundation website"). All Rights Reserved.
+## Colophon
 
-### License
+### Authors
+
+This is an open-source project by the **[Block Foundation](https://www.blockfoundation.io "Block Foundation website")**.
+
+The Block Foundation mission is enabling architects to take back initiative and contribute in solving the mismatch in housing through blockchain technology. Therefore the Block Foundation seeks to unschackle the traditional constraints and construct middle ground between rent and the rigidity of traditional mortgages.
+
+website: [www.blockfoundation.io](https://www.blockfoundation.io "Block Foundation website")
+
+### Development Resources
+
+#### Contributing
+
+We'd love for you to contribute and to make this project even better than it is today!
+Please refer to the [contribution guidelines](.github/CONTRIBUTING.md) for information.
+
+### Legal Information
+
+#### Copyright
+
+Copyright &copy; 2023 [Stichting Block Foundation](https://www.blockfoundation.io/ "Block Foundation website"). All Rights Reserved.
+
+#### License
 
 Except as otherwise noted, the content in this repository is licensed under the
 [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/), and
-code samples are licensed under the [MIT License](https://opensource.org/license/mit/).
+code samples are licensed under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
 
-Also see [LICENSE](https://github.com/block-foundation/community/blob/master/LICENSE) and [LICENSE-CODE](https://github.com/block-foundation/community/blob/master/LICENSE-CODE).
+Also see [LICENSE](https://github.com/block-foundation/community/blob/master/src/LICENSE) and [LICENSE-CODE](https://github.com/block-foundation/community/blob/master/src/LICENSE-CODE).
 
-### Disclaimer
+#### Disclaimer
 
 **THIS SOFTWARE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
