@@ -22,7 +22,7 @@
         "sass-loader": "^13.3.0",
         "stylescape": "^0.0.1",
         "ts-loader": "^9.5.1",
-        "ts-node": "^10.9.1",
+        "ts-node": "^10.9.2",
         "typescript": "^5.1.6",
         "webpack": "^5.84.0",
         "webpack-cli": "^5.1.1",
